@@ -35,9 +35,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="0"
-            app:layout_row="0"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="0" />
 
         <ImageView
             android:id="@+id/imageView2"
@@ -48,9 +50,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="1"
-            app:layout_row="0"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="0" />
 
         <ImageView
             android:id="@+id/imageView3"
@@ -61,9 +65,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="2"
-            app:layout_row="0"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="0" />
 
         <ImageView
             android:id="@+id/imageView4"
@@ -74,9 +80,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="0"
-            app:layout_row="1"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="1" />
 
         <ImageView
             android:id="@+id/imageView5"
@@ -87,9 +95,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="1"
-            app:layout_row="1"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="1" />
 
         <ImageView
             android:id="@+id/imageView6"
@@ -100,9 +110,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="2"
-            app:layout_row="1"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="1" />
 
         <ImageView
             android:id="@+id/imageView7"
@@ -113,9 +125,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="0"
-            app:layout_row="2"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="2" />
 
         <ImageView
             android:id="@+id/imageView8"
@@ -126,9 +140,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="1"
-            app:layout_row="2"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="2" />
 
         <ImageView
             android:id="@+id/imageView9"
@@ -139,9 +155,11 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="5dp"
             android:layout_marginBottom="5dp"
+            android:alpha="0"
+            android:background="#000"
+            android:onClick="imageViewIsTapped"
             app:layout_column="2"
-            app:layout_row="2"
-            app:srcCompat="@drawable/lion" />
+            app:layout_row="2" />
 
     </androidx.gridlayout.widget.GridLayout>
 
