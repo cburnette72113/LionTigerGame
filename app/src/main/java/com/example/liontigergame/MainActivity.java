@@ -33,6 +33,6 @@ public class MainActivity extends AppCompatActivity {
             currentPlayer = Player.ONE;
         }
 
-        tappedImageView.animate().translationXBy(2000).alpha(1).rotation(3600).setDuration(1000);
+        tappedImageView.animate().translationXBy(2000).alpha(1).rotation(3600).setDuration(2000);
     }
 }
